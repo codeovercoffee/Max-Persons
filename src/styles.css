@@ -1,0 +1,15 @@
+.App {
+  border: 1px solid #eee;
+  width: 200px;
+  padding: 20px;
+  box-shadow: 0 2px 2px #ccc;
+  text-align: center;
+  margin: auto;
+}
+
+button {
+  background-color: white;
+  font: inherit;
+  border: 1x solid blue;
+  padding: 8px;
+}
